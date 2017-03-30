@@ -69,7 +69,8 @@ exports.defaultOptions = {
     'functionSent',
     'jsx',
     'objectRestSpread',
-    'trailingFunctionCommas'
+    'trailingFunctionCommas',
+    'dynamicImport'
   ],
   ranges: true,
   sourceType: 'module',

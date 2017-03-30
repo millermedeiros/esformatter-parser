@@ -26,8 +26,8 @@
   "homepage": "https://github.com/millermedeiros/esformatter-parser#readme",
   "dependencies": {
     "acorn-to-esprima": "^2.0.8",
-    "babel-traverse": "^6.9.0",
-    "babylon": "^6.8.0",
+    "babel-traverse": "^6.23.1",
+    "babylon": "^6.16.1",
     "rocambole": "^0.7.0"
   }
 }
